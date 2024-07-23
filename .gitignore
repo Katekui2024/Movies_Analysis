@@ -1,0 +1,7 @@
+# ignore the folder containing datasets
+data/
+
+#ignore ALL .log files
+*.log
+.ipynb_checkpoints
+
