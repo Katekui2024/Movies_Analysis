@@ -47,7 +47,7 @@ For the analysis,we used data from the `zippedData` folder of [this repository.]
 5. ***User Rating:*** Continuous variable representing the average ratings or scores given by users for the movie.
 6. ***Release Date:*** Temporal variable indicating the date when the movie was released in theaters.
 
-## Results
+## Data Analysis Results
 The top 20 movies based on box office revenue are as shown: 
 
 ![image.png](Top_20_movies_by_gross.png)
@@ -74,34 +74,24 @@ Over time, we notice `domestic_gross`, `worldwide_gross` and `profit` have been 
 
 ![image.png](profits_trends.png)
 
-## . Findings and Conclusions
-1. What types of films are currently performing best at the box office (based on box office gross)?
+## Findings and Conclusions
+1. The top 5 movies by worldwide gross are Avatar, Titanic, Star Wars Ep. VII: The Force Awakens, Avengers: Infinity War and Jurassic World.
+The best performing movie overall is Avatar.
+2. The best performing genres in terms of **gross** are Action, Adventure, Animation, Comedy, Crime, Drama, Fantasy, Horror, Romance, Sci-Fi, Sport, and Thriller.  The **best rated** movie genres are Action, Adventure, Animation, Comedy, Crime, Drama, Fantasy, Horror, Romance, Sci-Fi, Sport, and Thriller.
+3. The optimal budget range is between $170,000,660 and 255,000,440 with a profitability index of 96.88%. 
+4. May, June and July have the highest average gross revenueand are thus considered the best time to release a movie. Moreover, June, November and December have the highest total gross earnings and would also be a good time to release movies putting other factors into consideration.
 
-The top 5 movies by worldwide gross are Avatar, Titanic, Star Wars Ep. VII: The Force Awakens, Avengers: Infinity War and Jurassic World.
 
-The best performing movie overall is Avatar. 
-2. Which movie genres have been the most popular and successful over time?
-
-3. How does the movie budget impact box office revenue, and can smaller budget films be profitable?
-
-There is a correlation co-efficient of approximately 0.75 between production_budget and worldwide gross.
-This indicates a strong positive linear correlation between the movie's production budget and its worldwide gross revenue.
-The optimal budget range is between 
-255,000,440 with a profitability index of 96.88%
-4. Are there seasonal trends in movie performance, and when is the best time to release a movie?
-
-May has the highest average worldwide gross earnings, followed by June and then July.
-These months could be considered the best time to release a movie for maximum revenue as they generate the highest worldwide gross revenue on average.
-Type Markdown and LaTeX: 
-
-## . Recommendations
+## Recommendations
 1. The top most profitable movies are action, adventure, Animation, Comedy, Drama, 'Fantasy, Horror, Romance, Sci-Fi, and Thriller we would advise the stakeholders to focus on these genres.
 2. The top 5 most popular movies are all from the action genre so we would recommend the stakeholders focus more on action genres
 3. Target production budgets to be within the optimal budget range to maximize on profitability.
 4. Plan the release of movies to fall in the months of May, June, July, November, and December.
 
 ## Future Recommendation
-Since our model is not accurate and we have a lot of variables that are not explained by the model we recommend further investigation and research of the data for better understanding
+1. Analyze audience sentiments and reviews using natural language processing techniques to gain deeper insights into audience preferences and reactions by incorporating sentiment analysis.
+2. Since our model is not accurate and we have a lot of variables that are not explained by the model we recommend further investigation and research of the data for better understanding.
+3. Since our model is not accurate and we have a lot of variables that are not explained by the model we recommend further investigation and research of the data for better understanding
 
 
 
