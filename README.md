@@ -67,7 +67,7 @@ Therefore, the optimal budget range is 170,000,660 - 255,000,440 .
 
 From the above graph, we notice that while May, November and December have the highest revenues, on average, May, June and July are the highest performing.
 
-![image.png](revenue_by_relese_month.png)
+![image.png](revenue_by_release_month.png)
 
 
 Over time, we notice `domestic_gross`, `worldwide_gross` and `profit` have been generally increasing. 
