@@ -83,7 +83,7 @@ The best performing movie overall is Avatar.
 
 
 ## Recommendations
-1. Focuson producing movies that fall into the top most profitable movie genres i.e., are action, adventure, Animation, Comedy, Drama, 'Fantasy, Horror, Romance, Sci-Fi, Sport, and Thriller.
+1. Focus on producing movies that fall into the top most profitable movie genres i.e., are action, adventure, Animation, Comedy, Drama, 'Fantasy, Horror, Romance, Sci-Fi, Sport, and Thriller.
 2. Incorporate an action genre orient to the movie as the top 5 most popular movies are all from the action genre. 
 3. Target production budgets to be within the optimal budget range ($170,000,660 - $255,000,440) to maximize on profitability.
 4. Plan the release of movies to fall in the months of May, June, July, November, and December.
