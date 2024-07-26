@@ -1,6 +1,7 @@
 # <h1 style="text-align: center;">Movie Analysis: Identifying the Top Performing Film Types </h1>
 ![alt text](avatar.jpeg)
 
+[You can find a link to the Tableau dashboard for this project here.](https://public.tableau.com/app/profile/vallary.banda/viz/MOVIEANALYSISDASHBOARD_17219995561240/ADASHBOARDREPRSENTINGMOVIEANALYSIS) 
 
 
 ## Project Overview
