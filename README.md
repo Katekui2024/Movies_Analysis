@@ -100,7 +100,7 @@ Type Markdown and LaTeX:
 4. Plan the release of movies to fall in the months of May, June, July, November, and December.
 
 ## Future Recommendation
-ince our model is not accurate and we have a lot of variables that are not explained by the model we recommend further investigation and research of the data for better understanding
+Since our model is not accurate and we have a lot of variables that are not explained by the model we recommend further investigation and research of the data for better understanding
 
 
 
